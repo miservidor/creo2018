@@ -1,0 +1,145 @@
+<div *ngIf="popup" class="ficha-fondo">
+  <div class="ficha">
+    <div class="ficha-head">
+        <div class="row">
+            <div class="col-xs-1"></div>
+            <div class="col-xs-10"><h2>{{popupinfo.proyecto}}</h2></div>
+            <div class="col-xs-1"><span class="glyphicon glyphicon-remove-circle iconclose" (click)="CerrarPopup()"></span> </div>
+          </div>
+    </div>
+<div class="ficha-body">
+    <div class="col-sm-6">
+      <div class="itemficha">
+        <strong>Nombre:</strong>  
+         {{popupinfo.proyecto}}
+      </div>
+      <div class="itemficha">
+          <strong>Tipo:</strong>   {{popupinfo.tipo}}
+      </div>
+      <div class="itemficha">
+       <strong>Cod:</strong>  {{popupinfo.id}}
+      </div>
+      <div class="itemficha">
+        <strong>Descripcion:</strong>   <br>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+           
+        </div>
+        <div class="itemficha">
+            <span class="glyphicon glyphicon-map-marker iconbutton"></span>
+            <span class="glyphicon glyphicon-plus iconbutton"></span>
+            <span class="glyphicon glyphicon-envelope iconbutton"></span>
+            
+        </div>
+              </div>
+              <div class="col-sm-6">
+                  <div class="ficha-img">
+                    <div class="img-example"> IMAGEN 1</div>
+                    <div class="img-example">IMAGEN 2</div>
+  
+                  </div>
+              </div>
+            </div>
+</div>
+</div>
+
+<div class="menumap">
+  <div class="menuciudad">
+
+
+  <div class="menuls">
+  <div class="menulsizq"></div>
+  <div class="menulsder">
+  <div class="row">
+    <input type="text" name="term" value="" class="input-filter" placeholder="Busca por direccion, barrio o proyecto" [(ngModel)]="term" >
+  </div>
+  <div class="row">
+<div class="menutipo">
+  <div class="tipocity cac">
+      <input type="checkbox" name="CI" value="CI" [(ngModel)]="ci_show" (ngModelChange)="CargaLista($event)"> CI <br>
+  </div>
+  <div class="tipocity csus">
+      <input type="checkbox" name="CS" value="CS" [(ngModel)]="cs_show" (ngModelChange)="CargaLista($event)"> CS <br>  
+  </div>
+  <div class="tipocity cdm">
+      <input type="checkbox" name="CM" value="CM" [(ngModel)]="cm_show" (ngModelChange)="CargaLista($event)"> CM <br>      
+      
+  </div>
+  <div class="tipocity cdb">
+      <input type="checkbox" name="CB" value="CB" [(ngModel)]="cb_show" (ngModelChange)="CargaLista($event)"> CB <br>      
+  </div>
+  <div class="tipocity cin">
+      
+          <input type="checkbox" name="CA" value="CA" [(ngModel)]="ca_show" (ngModelChange)="CargaLista($event)"> CA <br>      
+      
+  </div>
+</div>
+
+  </div>
+    <div>test {{texttest}} <span id="newtext"></span></div>
+    <div *ngFor="let item of filcities | async; let i = index" >
+      
+      <div id="{{i}}" class="rowcity" (click)="AbrirPopup(item)">
+        <div *ngIf="item.tipociudad==='CA'" class="rowcity-icon cac">
+          {{i}}<br>
+          <img src="./assets/iconos/c_activa.png" alt="" class="img-responsive">
+        </div>
+        <div *ngIf="item.tipociudad==='CI'" class="rowcity-icon cin">
+          {{i}}<br>
+          <img src="./assets/iconos/c_integrada.png" alt="" class="img-responsive">
+        </div>
+        <div *ngIf="item.tipociudad==='CS'" class="rowcity-icon csus">
+          {{i}}<br>
+          <img src="./assets/iconos/c_sustentable.png" alt="" class="img-responsive">
+        </div>
+        <div *ngIf="item.tipociudad==='CM'" class="rowcity-icon cdm">
+          {{i}}<br>
+          <img src="./assets/iconos/c_mar.png" alt="" class="img-responsive">
+        </div>
+        <div *ngIf="item.tipociudad==='CB'" class="rowcity-icon cdb">
+          {{i}}<br>
+          <img src="./assets/iconos/c_barrios.png" alt="" class="img-responsive">
+        </div>
+        <div class="rowcity-text"><strong>{{item.proyecto}}
+          </strong><br>
+          <span style="color:#999;">Tipo: {{item.tipo}}</span><br>
+          <span style="color:#999;">Cod: {{item.id}}</span>
+        </div>
+        <div class="rowcity-img" style="text-align:right;">
+          <img src="./assets/ejm_icon.jpg" alt="">
+        </div>
+      </div>
+    </div>
+    <!--span (click)="ListaCiudad();">Ciudades</span>
+    <div (click)="NewMap();">Limpiar</div-->
+    <div (click)="RefreshMenu();">recarga</div>
+    
+  </div>
+
+  </div>
+  </div>
+<!--div class="menucentro"></div>
+  <div *ngIf="nombreciudad" class="menuciudet">
+    <div class="row">
+      <div class="col-sm-12">
+        <h1>{{nombreciudad}}</h1>
+        <p>{{descciudad}}</p>
+      </div>
+    </div>
+  </div-->
+</div>
+
+<div id="map" [style.height]="height">
+</div>
+
+<!--button type="" (click)="ShowCities();">Cities (console)</button>
+
+<ul>
+  <li class="text" *ngFor="let city of cities | async" (click)="MostrarMapa(city.info.idmapa)">
+    {{city.info.idmapa}} - {{city.info.ciudad}} - {{city.info.proyecto}}
+  </li>
+</ul-->
+
+
+<!--h2>bottom: {{bordermap_bottom}}</h2>
+<h2>top: {{bordermap_top}}</h2-->

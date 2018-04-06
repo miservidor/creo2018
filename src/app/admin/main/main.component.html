@@ -1,0 +1,13 @@
+<div class="espaciosup">
+
+</div>
+<div class="cuerpo">
+  <div class="menuleft">
+    <app-menulat></app-menulat>
+  </div>
+  <div class="menumain">
+    <app-central *ngIf="main==='inicio'"></app-central>
+    <app-edicion *ngIf="main==='edicion'"></app-edicion>
+    <app-config *ngIf="main==='config'"></app-config>
+  </div>
+</div>

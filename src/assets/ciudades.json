@@ -1,0 +1,3328 @@
+{
+    "1": {
+        "info": {
+            "ciudad": "CI",
+            "id": "1",
+            "idmapa": "CI_1_1_1",
+            "proyecto": "Ciclovías Red Vial  Antofagasta Etapa 1",
+            "tipo": "INFRAESTRUCTURA"
+        },
+        "mapa": true,
+        "proyecto": "ci"
+    },
+    "001": {
+        "info": {
+            "ciudad": "CB",
+            "id": "001",
+            "idmapa": "CB_2_1_2",
+            "proyecto": "AEB Ciclovías Red Vial Etapas 1-2-3",
+            "tipo": "INFRAESTRUCTURA"
+        },
+        "mapa": true
+    },
+    "2": {
+        "info": {
+            "ciudad": "CI",
+            "id": "2",
+            "idmapa": "CI_1_1_2",
+            "proyecto": "Ciclovías Red vial Antofagasta Etapa 2",
+            "tipo": "INFRAESTRUCTURA"
+        },
+        "proyecto": "ci"
+    },
+    "3": {
+        "info": {
+            "ciudad": "CI",
+            "id": "3",
+            "idmapa": "CI_1_1_3",
+            "proyecto": "Ciclovías Red vial Antofagasta  Etapa 3",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "4": {
+        "info": {
+            "ciudad": "CI",
+            "id": "4",
+            "idmapa": "CI_1_1_4",
+            "proyecto": "Ciclovías Red Vial  Antofagasta Etapa 4",
+            "tipo": "INFRAESTRUCTURA"
+        },
+        "proyecto": "ci"
+    },
+    "5": {
+        "info": {
+            "ciudad": "CI",
+            "id": "5",
+            "idmapa": "CI_1_1_6",
+            "proyecto": "Ciclovías  Autopista La Chimba",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "6": {
+        "info": {
+            "ciudad": "CI",
+            "id": "6",
+            "idmapa": "CI_1_2_1",
+            "proyecto": "CicloRecreovía Antofagasta",
+            "tipo": "PROGRAMA"
+        }
+    },
+    "7": {
+        "info": {
+            "ciudad": "CI",
+            "id": "7",
+            "idmapa": "CI_1_2_2",
+            "proyecto": "Conteo Automático de Bicicletas",
+            "tipo": "PROGRAMA"
+        }
+    },
+    "8": {
+        "info": {
+            "ciudad": "CI",
+            "id": "8",
+            "idmapa": "CI_1_2_3",
+            "proyecto": "Bicimapa Antofagasta",
+            "tipo": "PROGRAMA"
+        }
+    },
+    "9": {
+        "info": {
+            "ciudad": "CI",
+            "id": "9",
+            "idmapa": "CI_1_2_4",
+            "proyecto": "Bicicletas públicas Antofagasta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "10": {
+        "info": {
+            "ciudad": "CI",
+            "id": "10",
+            "idmapa": "CI_1_3_1",
+            "proyecto": "Paseo Cerro Mar Francisco Puelma",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "010": {
+        "info": {
+            "ciudad": "CS",
+            "id": "010",
+            "idmapa": "CS_6_1_5",
+            "proyecto": " Iniciativa Paseos Cerro-Mar",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "11": {
+        "info": {
+            "ciudad": "CI",
+            "id": "11",
+            "idmapa": "CI_1_3_2",
+            "proyecto": "Paseo Cerro Mar La Chimba",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "12": {
+        "info": {
+            "ciudad": "CI",
+            "id": "12",
+            "idmapa": "CI_1_3_3",
+            "proyecto": "Paseo Cerro Mar Caparrosa",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "13": {
+        "info": {
+            "ciudad": "CI",
+            "id": "13",
+            "idmapa": "CI_1_3_4",
+            "proyecto": "Paseo Cerro Mar Vladimir Saavedra",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "14": {
+        "info": {
+            "ciudad": "CI",
+            "id": "14",
+            "idmapa": "CI_1_3_5",
+            "proyecto": "Paseo Cerro Mar Arturo P�rez Canto",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "15": {
+        "info": {
+            "ciudad": "CI",
+            "id": "15",
+            "idmapa": "CI_1_3_6",
+            "proyecto": "Paseo Cerro Mar Julio Montt",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "16": {
+        "info": {
+            "ciudad": "CI",
+            "id": "16",
+            "idmapa": "CI_1_3_7",
+            "proyecto": "Paseo Cerro Mar Juan Bol�var",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "17": {
+        "info": {
+            "ciudad": "CI",
+            "id": "17",
+            "idmapa": "CI_1_3_8",
+            "proyecto": "Paseo Cerro Mar Nicol�s Tirado",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "18": {
+        "info": {
+            "ciudad": "CI",
+            "id": "18",
+            "idmapa": "CI_1_3_9",
+            "proyecto": "Paseo Cerro Mar Juvenal Morla",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "19": {
+        "info": {
+            "ciudad": "CI",
+            "id": "19",
+            "idmapa": "CI_1_3_10",
+            "proyecto": "Paseo Cerro Mar Irarr�zaval",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "20": {
+        "info": {
+            "ciudad": "CI",
+            "id": "20",
+            "idmapa": "CI_1_3_11",
+            "proyecto": "Paseo Cerro Mar Isabel Riquelme",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "21": {
+        "info": {
+            "ciudad": "CI",
+            "id": "21",
+            "idmapa": "CI_1_3_12",
+            "proyecto": "Paseo Cerro Mar Independencia",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "22": {
+        "info": {
+            "ciudad": "CI",
+            "id": "22",
+            "idmapa": "CI_1_3_13",
+            "proyecto": "Paseo Cerro Mar V�ctor Jara",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "23": {
+        "info": {
+            "ciudad": "CI",
+            "id": "23",
+            "idmapa": "CI_1_3_14",
+            "proyecto": "Paseo Cerro Mar  Pisagua",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "24": {
+        "info": {
+            "ciudad": "CI",
+            "id": "24",
+            "idmapa": "CI_1_3_15",
+            "proyecto": "Paseo Cerro Mar Paraguay",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "25": {
+        "info": {
+            "ciudad": "CI",
+            "id": "25",
+            "idmapa": "CI_1_3_16",
+            "proyecto": "Paseo Cerro Mar Montevideo",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "26": {
+        "info": {
+            "ciudad": "CI",
+            "id": "26",
+            "idmapa": "CI_1_3_17",
+            "proyecto": "Paseo Cerro Mar El Ancla",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "27": {
+        "info": {
+            "ciudad": "CI",
+            "id": "27",
+            "idmapa": "CI_1_3_18",
+            "proyecto": "Paseo Cerro Mar Eleuterio Ram�rez",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "28": {
+        "info": {
+            "ciudad": "CI",
+            "id": "28",
+            "idmapa": "CI_1_3_19",
+            "proyecto": "Paseo Cerro Mar Covadonga-Riquelme",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "29": {
+        "info": {
+            "ciudad": "CI",
+            "id": "29",
+            "idmapa": "CI_1_3_20",
+            "proyecto": "Paseo Cerro Mar Prat",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "30": {
+        "info": {
+            "ciudad": "CI",
+            "id": "30",
+            "idmapa": "CI_1_3_21",
+            "proyecto": "Paseo Cerro Mar Maip�",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "31": {
+        "info": {
+            "ciudad": "CI",
+            "id": "31",
+            "idmapa": "CI_1_3_22",
+            "proyecto": "Paseo Cerro Mar 21 de Mayo",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "32": {
+        "info": {
+            "ciudad": "CI",
+            "id": "32",
+            "idmapa": "CI_1_3_23",
+            "proyecto": "Paseo Cerro Mar Antonino Toro",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "33": {
+        "info": {
+            "ciudad": "CI",
+            "id": "33",
+            "idmapa": "CI_1_3_24",
+            "proyecto": "Paseo Cerro Mar D�az Gana",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "34": {
+        "info": {
+            "ciudad": "CI",
+            "id": "34",
+            "idmapa": "CI_1_3_25",
+            "proyecto": "Paseo Cerro Mar General Borgo�o",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "35": {
+        "info": {
+            "ciudad": "CI",
+            "id": "35",
+            "idmapa": "CI_1_3_26",
+            "proyecto": "Paseo Cerro Mar Homero �vila",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "36": {
+        "info": {
+            "ciudad": "CI",
+            "id": "36",
+            "idmapa": "CI_1_3_27",
+            "proyecto": "Paseo Cerro Mar Campus UCN",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "37": {
+        "info": {
+            "ciudad": "CI",
+            "id": "37",
+            "idmapa": "CI_1_3_28",
+            "proyecto": "Paseo Cerro Mar Huanchaca",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "38": {
+        "info": {
+            "ciudad": "CI",
+            "id": "38",
+            "idmapa": "CI_1_3_29",
+            "proyecto": "Paseo Cerro Mar Ej�rcito",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "39": {
+        "info": {
+            "ciudad": "CI",
+            "id": "39",
+            "idmapa": "CI_1_3_30",
+            "proyecto": "Paseo Cerro Mar Paranal",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "40": {
+        "info": {
+            "ciudad": "CI",
+            "id": "40",
+            "idmapa": "CI_1_3_31",
+            "proyecto": "Paseo Cerro Mar Universidad Antofagasta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "41": {
+        "info": {
+            "ciudad": "CI",
+            "id": "41",
+            "idmapa": "CI_1_3_32",
+            "proyecto": "Paseo Cerro Mar Jardines del Sur",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "42": {
+        "info": {
+            "ciudad": "CI",
+            "id": "42",
+            "idmapa": "CI_1_3_33",
+            "proyecto": "Paseo Cerro Mar Valle Nortino",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "43": {
+        "info": {
+            "ciudad": "CI",
+            "id": "43",
+            "idmapa": "CI_1_4_6",
+            "proyecto": "Paseo Peatonal Borde Cerro Norte",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "44": {
+        "info": {
+            "ciudad": "CI",
+            "id": "44",
+            "idmapa": "CI_1_4_7",
+            "proyecto": "Paseo Peatonal Borde Cerro Centro",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "45": {
+        "info": {
+            "ciudad": "CI",
+            "id": "45",
+            "idmapa": "CI_1_4_8",
+            "proyecto": "Paseo Peatonal Borde Cerro Sur",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "46": {
+        "info": {
+            "ciudad": "CI",
+            "id": "46",
+            "idmapa": "CI_1_5_1",
+            "proyecto": "Programa de mejoramiento de acera área centro",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "47": {
+        "info": {
+            "ciudad": "CI",
+            "id": "47",
+            "idmapa": "CI_1_5_2",
+            "proyecto": "Programa de mejoramiento de acera Subcentros",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "48": {
+        "info": {
+            "ciudad": "CI",
+            "id": "48",
+            "idmapa": "CI_1_5_3",
+            "proyecto": "Programa de mejoramiento de aceras área centros de barrios",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "49": {
+        "info": {
+            "ciudad": "CI",
+            "id": "49",
+            "idmapa": "CI_1_5_4",
+            "proyecto": "Conexiones peatonales especiales",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "50": {
+        "info": {
+            "ciudad": "CI",
+            "id": "50",
+            "idmapa": "CI_2_1_1",
+            "proyecto": "Estudio Transporte Público Masivo para Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "51": {
+        "info": {
+            "ciudad": "CI",
+            "id": "51",
+            "idmapa": "CI_2_1_2",
+            "proyecto": "Corredor de Transporte Público Norponiente",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "52": {
+        "info": {
+            "ciudad": "CI",
+            "id": "52",
+            "idmapa": "CI_2_1_3",
+            "proyecto": "Corredor Transporte Público Nororiente",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "53": {
+        "info": {
+            "ciudad": "CI",
+            "id": "53",
+            "idmapa": "CI_2_1_4",
+            "proyecto": "Corredor Transporte Público Sur Oriente",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "54": {
+        "info": {
+            "ciudad": "CI",
+            "id": "54",
+            "idmapa": "CI_2_1_5",
+            "proyecto": "Corredor Transporte Público Sur Poniente",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "55": {
+        "info": {
+            "ciudad": "CB",
+            "id": "55",
+            "idmapa": "CB_2_1_4",
+            "proyecto": "Gestión de Tránsito en área Centro",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "56": {
+        "info": {
+            "ciudad": "CI",
+            "id": "56",
+            "idmapa": "CI_2_1_7",
+            "proyecto": "Mejora tecnológica a la flota de servicio de transporte público",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "57": {
+        "info": {
+            "ciudad": "CI",
+            "id": "57",
+            "idmapa": "CI_2_1_8",
+            "proyecto": "Observatorio de Movilidad Urbana  - Smart",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "58": {
+        "info": {
+            "ciudad": "CI",
+            "id": "58",
+            "idmapa": "CI_2_1_9",
+            "proyecto": "Sensorización Estacionamientos  - Smart",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "59": {
+        "info": {
+            "ciudad": "CI",
+            "id": "59",
+            "idmapa": "CI_2_2_1",
+            "proyecto": "Plan Mejoramiento Red Vial Secundaria",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "60": {
+        "info": {
+            "ciudad": "CI",
+            "id": "60",
+            "idmapa": "CI_2_2_2",
+            "proyecto": "Plan de conservación de vías (SERVIU)",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "61": {
+        "info": {
+            "ciudad": "CI",
+            "id": "61",
+            "idmapa": "CI_3_1_1",
+            "proyecto": "Estrategia local Viviendas asequibles y de inter�s público.",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "62": {
+        "info": {
+            "ciudad": "CI",
+            "id": "62",
+            "idmapa": "CI_3_1_2",
+            "proyecto": " Asociaciones público-privadas para viviendas asequibles y de inter�s publico.",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "63": {
+        "info": {
+            "ciudad": "CI",
+            "id": "63",
+            "idmapa": "CI_3_1_3",
+            "proyecto": "Recomendaciones normativas para zonificación inclusiva",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "64": {
+        "info": {
+            "ciudad": "CI",
+            "id": "64",
+            "idmapa": "CI_3_1_4",
+            "proyecto": "Instrumentos de renta asequible regulados",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "65": {
+        "info": {
+            "ciudad": "CI",
+            "id": "65",
+            "idmapa": "CI_3_1_5",
+            "proyecto": "Programa  Zona Inclusiva  en Nuevos Barrios",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "66": {
+        "info": {
+            "ciudad": "CI",
+            "id": "66",
+            "idmapa": "CI_3_1_6",
+            "proyecto": "Programa  Zona Inclusiva en Corredores de Transporte",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "67": {
+        "info": {
+            "ciudad": "CI",
+            "id": "67",
+            "idmapa": "CI_3_1_7",
+            "proyecto": "Programa  Zona Inclusiva  en Centros de Barrio Subcentros y área Centro",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "068": {
+        "info": {
+            "ciudad": "CM",
+            "id": "068",
+            "idmapa": "CM_1_1_1",
+            "proyecto": "Plan Maestro Borde Costero de Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "69": {
+        "info": {
+            "ciudad": "CM",
+            "id": "69",
+            "idmapa": "CM_1_1_2",
+            "proyecto": "Microzonificación del Borde Costero Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "70": {
+        "info": {
+            "ciudad": "CM",
+            "id": "70",
+            "idmapa": "CM_1_1_3",
+            "proyecto": "Modelo Administración del Borde Costero de Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "71": {
+        "info": {
+            "ciudad": "CM",
+            "id": "71",
+            "idmapa": "CM_1_1_4",
+            "proyecto": "Mesa de usuarios de BC",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "72": {
+        "info": {
+            "ciudad": "CM",
+            "id": "72",
+            "idmapa": "CM_1_2_1",
+            "proyecto": "Playa y Caleta La Chimba",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "73": {
+        "info": {
+            "ciudad": "CM",
+            "id": "73",
+            "idmapa": "CM_1_2_2",
+            "proyecto": "Playa Para�so - El Cuadro",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "74": {
+        "info": {
+            "ciudad": "CM",
+            "id": "74",
+            "idmapa": "CM_1_2_3",
+            "proyecto": "Playa El Cable",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "75": {
+        "info": {
+            "ciudad": "CM",
+            "id": "75",
+            "idmapa": "CM_1_2_4",
+            "proyecto": "Playa Las Almejas",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "76": {
+        "info": {
+            "ciudad": "CM",
+            "id": "76",
+            "idmapa": "CM_1_2_5",
+            "proyecto": "Playa Juan L�pez",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "77": {
+        "info": {
+            "ciudad": "CM",
+            "id": "77",
+            "idmapa": "CM_1_2_6",
+            "proyecto": "Estudio de Prefactibilidad para habilitación de posas y piscinas naturales en Antofagasta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "78": {
+        "info": {
+            "ciudad": "CM",
+            "id": "78",
+            "idmapa": "CM_1_3_1",
+            "proyecto": "Plan Maestro La Portada",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "79": {
+        "info": {
+            "ciudad": "CM",
+            "id": "79",
+            "idmapa": "CM_1_3_2",
+            "proyecto": "Centro Acu�tico La Chimba",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "80": {
+        "info": {
+            "ciudad": "CM",
+            "id": "80",
+            "idmapa": "CM_1_3_3",
+            "proyecto": "Obras Complementarias Playa Trocadero",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "81": {
+        "info": {
+            "ciudad": "CM",
+            "id": "81",
+            "idmapa": "CM_1_3_4",
+            "proyecto": "Mercado del Mar",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "82": {
+        "info": {
+            "ciudad": "CM",
+            "id": "82",
+            "idmapa": "CM_1_3_5",
+            "proyecto": "Reposición Caleta de Pescadores Antofagasta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "83": {
+        "info": {
+            "ciudad": "CM",
+            "id": "83",
+            "idmapa": "CM_1_3_6",
+            "proyecto": "Centro Interactivo del Mar: Acuario Antofagasta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "84": {
+        "info": {
+            "ciudad": "CM",
+            "id": "84",
+            "idmapa": "CM_1_3_7",
+            "proyecto": "Caleta de Pescadores Coloso",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "85": {
+        "info": {
+            "ciudad": "CM",
+            "id": "85",
+            "idmapa": "CM_1_4_1",
+            "proyecto": "Paseo Borde Costero Norte - La Portada",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "86": {
+        "info": {
+            "ciudad": "CM",
+            "id": "86",
+            "idmapa": "CM_1_4_2",
+            "proyecto": "Paseo Borde Costero Norte",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "87": {
+        "info": {
+            "ciudad": "CM",
+            "id": "87",
+            "idmapa": "CM_1_4_3",
+            "proyecto": "Paseo Borde Costero Centro",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "88": {
+        "info": {
+            "ciudad": "CM",
+            "id": "88",
+            "idmapa": "CM_1_4_4",
+            "proyecto": "Paseo Borde Costero Centro Sur",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "89": {
+        "info": {
+            "ciudad": "CM",
+            "id": "89",
+            "idmapa": "CM_1_4_5",
+            "proyecto": "Paseo Borde Costero Sur",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "90": {
+        "info": {
+            "ciudad": "CM",
+            "id": "90",
+            "idmapa": "CM_1_5_1",
+            "proyecto": "Estación de Mar  Mirador Norte La Portada",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "91": {
+        "info": {
+            "ciudad": "CM",
+            "id": "91",
+            "idmapa": "CM_1_5_2",
+            "proyecto": "Estación de Mar Acantilados",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "92": {
+        "info": {
+            "ciudad": "CM",
+            "id": "92",
+            "idmapa": "CM_1_5_3",
+            "proyecto": "Estación de Mar Portada Sur",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "93": {
+        "info": {
+            "ciudad": "CM",
+            "id": "93",
+            "idmapa": "CM_1_5_4",
+            "proyecto": "Estación de Mar Playa Norte",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "94": {
+        "info": {
+            "ciudad": "CM",
+            "id": "94",
+            "idmapa": "CM_1_5_5",
+            "proyecto": "Estación de Mar La Chimba",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "95": {
+        "info": {
+            "ciudad": "CM",
+            "id": "95",
+            "idmapa": "CM_1_5_6",
+            "proyecto": "Estación de Mar La Aguada",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "96": {
+        "info": {
+            "ciudad": "CM",
+            "id": "96",
+            "idmapa": "CM_1_5_7",
+            "proyecto": "Estación de Mar Jardines del Norte",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "97": {
+        "info": {
+            "ciudad": "CM",
+            "id": "97",
+            "idmapa": "CM_1_5_8",
+            "proyecto": "Estación de Mar Viejos Cracks",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "98": {
+        "info": {
+            "ciudad": "CM",
+            "id": "98",
+            "idmapa": "CM_1_5_9",
+            "proyecto": "Estación de Mar Trocadero",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "99": {
+        "info": {
+            "ciudad": "CM",
+            "id": "99",
+            "idmapa": "CM_1_5_10",
+            "proyecto": "Estación de Mar Nilda Point",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "100": {
+        "info": {
+            "ciudad": "CM",
+            "id": "100",
+            "idmapa": "CM_1_5_11",
+            "proyecto": "Estación de Mar Pinares",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "101": {
+        "info": {
+            "ciudad": "CM",
+            "id": "101",
+            "idmapa": "CM_1_5_12",
+            "proyecto": "Estación de Mar Araucaria",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "102": {
+        "info": {
+            "ciudad": "CM",
+            "id": "102",
+            "idmapa": "CM_1_5_13",
+            "proyecto": "Estación de Mar Budeo",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "103": {
+        "info": {
+            "ciudad": "CM",
+            "id": "103",
+            "idmapa": "CM_1_5_14",
+            "proyecto": "Estación de Mar Piedra del Lobo",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "104": {
+        "info": {
+            "ciudad": "CM",
+            "id": "104",
+            "idmapa": "CM_1_5_15",
+            "proyecto": "Estación de Mar Los Eventos",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "105": {
+        "info": {
+            "ciudad": "CM",
+            "id": "105",
+            "idmapa": "CM_1_5_16",
+            "proyecto": "Estación de Mar Playa Para�so",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "106": {
+        "info": {
+            "ciudad": "CM",
+            "id": "106",
+            "idmapa": "CM_1_5_17",
+            "proyecto": "Estación de Mar Plaza Prat",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "107": {
+        "info": {
+            "ciudad": "CM",
+            "id": "107",
+            "idmapa": "CM_1_5_18",
+            "proyecto": "Estación de Mar La Puntilla",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "108": {
+        "info": {
+            "ciudad": "CM",
+            "id": "108",
+            "idmapa": "CM_1_5_19",
+            "proyecto": "Estación de Mar Parque Croata",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "109": {
+        "info": {
+            "ciudad": "CM",
+            "id": "109",
+            "idmapa": "CM_1_5_20",
+            "proyecto": "Estación de Mar \"La Capilla",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "110": {
+        "info": {
+            "ciudad": "CM",
+            "id": "110",
+            "idmapa": "CM_1_5_21",
+            "proyecto": "Estación de Mar Angamos",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "111": {
+        "info": {
+            "ciudad": "CM",
+            "id": "111",
+            "idmapa": "CM_1_5_22",
+            "proyecto": "Estación de Mar U Antofagasta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "112": {
+        "info": {
+            "ciudad": "CM",
+            "id": "112",
+            "idmapa": "CM_1_5_23",
+            "proyecto": "Estación de Mar Poza Los Gringos",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "113": {
+        "info": {
+            "ciudad": "CM",
+            "id": "113",
+            "idmapa": "CM_1_5_24",
+            "proyecto": "Estación de Mar  La C�pula",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "114": {
+        "info": {
+            "ciudad": "CM",
+            "id": "114",
+            "idmapa": "CM_1_5_25",
+            "proyecto": "Estación de Mar Hu�scar",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "115": {
+        "info": {
+            "ciudad": "CM",
+            "id": "115",
+            "idmapa": "CM_1_5_26",
+            "proyecto": "Estación de Mar Roca Roja",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "116": {
+        "info": {
+            "ciudad": "CM",
+            "id": "116",
+            "idmapa": "CM_1_5_27",
+            "proyecto": "Estación de Mar Playa Amarilla",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "117": {
+        "info": {
+            "ciudad": "CM",
+            "id": "117",
+            "idmapa": "CM_1_6_1",
+            "proyecto": "Parque Borde Costero  Norte La Chimba - Trocadero",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "118": {
+        "info": {
+            "ciudad": "CM",
+            "id": "118",
+            "idmapa": "CM_1_6_2",
+            "proyecto": "Parque Borde Costero Norte Trocadero Pinares",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "119": {
+        "info": {
+            "ciudad": "CM",
+            "id": "119",
+            "idmapa": "CM_1_6_3",
+            "proyecto": "Parque  Borde Costero Norte  de  los Eventos",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "120": {
+        "info": {
+            "ciudad": "CM",
+            "id": "120",
+            "idmapa": "CM_1_6_4",
+            "proyecto": "Parque Borde Costero Norte  Pablo Neruda",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "121": {
+        "info": {
+            "ciudad": "CB",
+            "id": "121",
+            "idmapa": "CB_3_2_13",
+            "proyecto": "Parque Croata",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "122": {
+        "info": {
+            "ciudad": "CM",
+            "id": "122",
+            "idmapa": "CM_1_6_6",
+            "proyecto": "Parque Borde Costero Sur Llacol�n",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "123": {
+        "info": {
+            "ciudad": "CM",
+            "id": "123",
+            "idmapa": "CM_1_7_1",
+            "proyecto": "Programa Juegos de Mar",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "124": {
+        "info": {
+            "ciudad": "CM",
+            "id": "124",
+            "idmapa": "CM_1_7_2",
+            "proyecto": "Agenda y plataforma Borde costero Activo",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "125": {
+        "info": {
+            "ciudad": "CM",
+            "id": "125",
+            "idmapa": "CM_1_7_3",
+            "proyecto": "Concurso Borde Costero Antofagasta: Dise�emos nuestro Paseo",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "126": {
+        "info": {
+            "ciudad": "CM",
+            "id": "126",
+            "idmapa": "CM_1_7_4",
+            "proyecto": "Mesa de usuarios del Borde Costero",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "127": {
+        "info": {
+            "ciudad": "CS",
+            "id": "127",
+            "idmapa": "CS_7_4_1",
+            "proyecto": "Sistema de infraestructura Logística Urbana (INICIATIVA 16)",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "128": {
+        "info": {
+            "ciudad": "CS",
+            "id": "128",
+            "idmapa": "CS_1_1_2",
+            "proyecto": "Puerto Seco - Zeal La Negra",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "129": {
+        "info": {
+            "ciudad": "CS",
+            "id": "129",
+            "idmapa": "CS_1_1_3",
+            "proyecto": "Barrio Industrial La Negra",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "130": {
+        "info": {
+            "ciudad": "CS",
+            "id": "130",
+            "idmapa": "CS_1_1_4",
+            "proyecto": "Barrio Logístico Industrial Uribe",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "131": {
+        "info": {
+            "ciudad": "CS",
+            "id": "131",
+            "idmapa": "CS_1_1_5",
+            "proyecto": "Barrio de Servicio La Chimba Alto - Portada Norte",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "132": {
+        "info": {
+            "ciudad": "CS",
+            "id": "132",
+            "idmapa": "CS_1_1_6",
+            "proyecto": "Plataforma Logística B400",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "133": {
+        "info": {
+            "ciudad": "CS",
+            "id": "133",
+            "idmapa": "CS_1_1_8",
+            "proyecto": "Servicios y estacionamientos para camiones",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "134": {
+        "info": {
+            "ciudad": "CS",
+            "id": "134",
+            "idmapa": "CS_1_1_7",
+            "proyecto": "Acceso Ferrocarril Puerto",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "135": {
+        "info": {
+            "ciudad": "CS",
+            "id": "135",
+            "idmapa": "CS_1_1_9",
+            "proyecto": "Gestión acceso camiones ciudad y puerto",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "136": {
+        "info": {
+            "ciudad": "CS",
+            "id": "136",
+            "idmapa": "CS_2_1_1",
+            "proyecto": "Estudio Sistema de Tratamiento de aguas servidas a nivel ciudad",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "137": {
+        "info": {
+            "ciudad": "CS",
+            "id": "137",
+            "idmapa": "CS_2_1_2",
+            "proyecto": "Sistema Distribuido de Tratamiento de Aguas Servidas para Riego.  Plantas TAS.",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "138": {
+        "info": {
+            "ciudad": "CS",
+            "id": "138",
+            "idmapa": "CS_2_1_3",
+            "proyecto": "Sistema Centralizado Tratamiento de Aguas Servidas Zonas Bajas",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "139": {
+        "info": {
+            "ciudad": "CS",
+            "id": "139",
+            "idmapa": "CS_2_2_1",
+            "proyecto": "Gu�a de diseño y Recomendaciones Ordenanza Municipal para uso de aguas tratadas a nivel barrial",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "140": {
+        "info": {
+            "ciudad": "CS",
+            "id": "140",
+            "idmapa": "CS_2_2_2",
+            "proyecto": "Programa y campaña de sensibilización y Educación para la eficiencia h�drica",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "141": {
+        "info": {
+            "ciudad": "CS",
+            "id": "141",
+            "idmapa": "CS_2_2_3",
+            "proyecto": "Programa grifer�a eficiente",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "142": {
+        "info": {
+            "ciudad": "CS",
+            "id": "142",
+            "idmapa": "CS_2_3_1",
+            "proyecto": "Agenda Estrategia Recursos Hídricos Urbanos",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "143": {
+        "info": {
+            "ciudad": "CS",
+            "id": "143",
+            "idmapa": "CS_2_3_2",
+            "proyecto": "Gu�a de diseño urbano y arquitect�nico  sensible a las aguas en zona des�rtica (WSUD)",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "144": {
+        "info": {
+            "ciudad": "CS",
+            "id": "144",
+            "idmapa": "CS_2_3_3",
+            "proyecto": "Unidad de Coordinación y Monitoreo recursos hídricos",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "145": {
+        "info": {
+            "ciudad": "CS",
+            "id": "145",
+            "idmapa": "CS_2_3_4",
+            "proyecto": "Mesa Participación Ciudadana sobre el agua",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "146": {
+        "info": {
+            "ciudad": "CS",
+            "id": "146",
+            "idmapa": "CS_3_1_1",
+            "proyecto": "Estrategia energética comunal Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "147": {
+        "info": {
+            "ciudad": "CS",
+            "id": "147",
+            "idmapa": "CS_3_1_2",
+            "proyecto": "Unidad de Coordinación y Monitoreo de  los Recursos Energéticos Urbanos de Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "148": {
+        "info": {
+            "ciudad": "CS",
+            "id": "148",
+            "idmapa": "CS_3_1_3",
+            "proyecto": "Mesa Participación Ciudadana sobre  energía",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "149": {
+        "info": {
+            "ciudad": "CS",
+            "id": "149",
+            "idmapa": "CS_3_1_4",
+            "proyecto": "Acuerdo producción Limpia en Eficiencia energética",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "150": {
+        "info": {
+            "ciudad": "CS",
+            "id": "150",
+            "idmapa": "CS_4_4_2",
+            "proyecto": "Certificación Ambiental Municipal SCAM",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "151": {
+        "info": {
+            "ciudad": "CS",
+            "id": "151",
+            "idmapa": "CS_3_1_6",
+            "proyecto": "Sistema de Calificación energética de Viviendas (CEV)",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "152": {
+        "info": {
+            "ciudad": "CS",
+            "id": "152",
+            "idmapa": "CS_3_1_7",
+            "proyecto": "Sello Verde Sistema Solar térmico para instalaciones",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "153": {
+        "info": {
+            "ciudad": "CS",
+            "id": "153",
+            "idmapa": "CS_3_1_8",
+            "proyecto": "Sistema Evaluación de Impacto Energético",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "154": {
+        "info": {
+            "ciudad": "CS",
+            "id": "154",
+            "idmapa": "CS_3_1_9",
+            "proyecto": "Créditos Verdes",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "155": {
+        "info": {
+            "ciudad": "CS",
+            "id": "155",
+            "idmapa": "CS_3_2_1",
+            "proyecto": "Plazas, Canchas y Colegios  Solares/ Electro-movilidad (20 proyectos)",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "156": {
+        "info": {
+            "ciudad": "CS",
+            "id": "156",
+            "idmapa": "CS_3_2_2",
+            "proyecto": "Programa Viviendas energéticamente Sustentables",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "157": {
+        "info": {
+            "ciudad": "CS",
+            "id": "157",
+            "idmapa": "CS_3_2_3",
+            "proyecto": "Gu�a de diseño para uso de energía solar",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "158": {
+        "info": {
+            "ciudad": "CS",
+            "id": "158",
+            "idmapa": "CS_3_2_4",
+            "proyecto": "Mapa Solar Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "159": {
+        "info": {
+            "ciudad": "CS",
+            "id": "159",
+            "idmapa": "CS_3_2_5",
+            "proyecto": "Techos Solares a Nivel Residencial",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "160": {
+        "info": {
+            "ciudad": "CS",
+            "id": "160",
+            "idmapa": "CS_3_2_6",
+            "proyecto": "Electro-movilidad: Bicicletas solares",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "161": {
+        "info": {
+            "ciudad": "CS",
+            "id": "161",
+            "idmapa": "CS_3_2_7",
+            "proyecto": "Electro-movilidad: taxis solares",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "162": {
+        "info": {
+            "ciudad": "CS",
+            "id": "162",
+            "idmapa": "CS_3_2_8",
+            "proyecto": "Centro de Formación Técnica: energía Solar",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "163": {
+        "info": {
+            "ciudad": "CS",
+            "id": "163",
+            "idmapa": "CS_3_2_9",
+            "proyecto": "Plataforma de emprendimiento en negocios solares",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "164": {
+        "info": {
+            "ciudad": "CS",
+            "id": "164",
+            "idmapa": "CS_3_3_1",
+            "proyecto": "Luminarias Públicas eficientes",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "165": {
+        "info": {
+            "ciudad": "CS",
+            "id": "165",
+            "idmapa": "CS_3_3_2",
+            "proyecto": "Gu�a de est�ndares de diseño para la eficiencia energética",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "166": {
+        "info": {
+            "ciudad": "CS",
+            "id": "166",
+            "idmapa": "CS_3_3_3",
+            "proyecto": "campaña Comunicacional de eficiencia energética",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "167": {
+        "info": {
+            "ciudad": "CS",
+            "id": "167",
+            "idmapa": "CS_3_3_4",
+            "proyecto": "Eficiencia energética para Pymes",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "168": {
+        "info": {
+            "ciudad": "CS",
+            "id": "168",
+            "idmapa": "CS_3_3_5",
+            "proyecto": "Sistemas de Cuenta con comparación de consumo el�ctrico",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "169": {
+        "info": {
+            "ciudad": "CS",
+            "id": "169",
+            "idmapa": "CS_3_3_6",
+            "proyecto": "Smart Meter para edificios",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "170": {
+        "info": {
+            "ciudad": "CS",
+            "id": "170",
+            "idmapa": "CS_3_3_7",
+            "proyecto": "Plan Co-generación el�ctrica industrial de La Negra",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "171": {
+        "info": {
+            "ciudad": "CS",
+            "id": "171",
+            "idmapa": "CS_4_1_1",
+            "proyecto": "Centro de Disposición y Tratamiento de RSD Chaqueta Blanca",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "172": {
+        "info": {
+            "ciudad": "CS",
+            "id": "172",
+            "idmapa": "CS_4_1_4",
+            "proyecto": "Piloto Centro Compostaje Municipal Parque Juan L�pez",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "173": {
+        "info": {
+            "ciudad": "CS",
+            "id": "173",
+            "idmapa": "CS_4_1_5",
+            "proyecto": "Piloto Recolección RSD  con separación en Origen",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "174": {
+        "info": {
+            "ciudad": "CS",
+            "id": "174",
+            "idmapa": "CS_4_1_6",
+            "proyecto": "Servicio de Recolección Municipal de RSD con separación en Origen",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "175": {
+        "info": {
+            "ciudad": "CS",
+            "id": "175",
+            "idmapa": "CS_4_2_1",
+            "proyecto": " Centro Tratamiento RESCON Sector Norte (Chanida)",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "176": {
+        "info": {
+            "ciudad": "CS",
+            "id": "176",
+            "idmapa": "CS_4_2_2",
+            "proyecto": " Centro Tratamiento RESCON Sector Sur (Roca Roja)",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "177": {
+        "info": {
+            "ciudad": "CA",
+            "id": "177",
+            "idmapa": "CA_1_1_4",
+            "proyecto": "Concurso Borde Costero Antofagasta: Dise�emos nuestro Paseo",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "178": {
+        "info": {
+            "ciudad": "CS",
+            "id": "178",
+            "idmapa": "CS_4_3_1",
+            "proyecto": "Programa de Educación Ambiental en tema de residuos.",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "179": {
+        "info": {
+            "ciudad": "CS",
+            "id": "179",
+            "idmapa": "CS_4_3_4",
+            "proyecto": "Certificación Barrio Sustentable",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "180": {
+        "info": {
+            "ciudad": "CS",
+            "id": "180",
+            "idmapa": "CS_4_4_1",
+            "proyecto": "Plan de cierre y reconversi�n del Ex Basural La Chimba.",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "181": {
+        "info": {
+            "ciudad": "CS",
+            "id": "181",
+            "idmapa": "CS_4_4_3",
+            "proyecto": "Mesa Ciudadana Manejo Residuos",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "182": {
+        "info": {
+            "ciudad": "CS",
+            "id": "182",
+            "idmapa": "CS_4_4_4",
+            "proyecto": "Programa Buenas Pr�cticas Gestión de residuos de las empresas de Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "183": {
+        "info": {
+            "ciudad": "CS",
+            "id": "183",
+            "idmapa": "CS_4_4_5",
+            "proyecto": "Propuesta de ley para regulación tarifa de recolección selectiva con segregación en el origen",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "184": {
+        "info": {
+            "ciudad": "CS",
+            "id": "184",
+            "idmapa": "CS_5_1_1",
+            "proyecto": "Sistema público de medición y monitoreo de calidad de aire en tiempo real",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "185": {
+        "info": {
+            "ciudad": "CS",
+            "id": "185",
+            "idmapa": "CS_5_1_2",
+            "proyecto": "Estudio evaluación de potenciales pasivos ambientales en la ciudad de Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "186": {
+        "info": {
+            "ciudad": "CS",
+            "id": "186",
+            "idmapa": "CS_5_1_3",
+            "proyecto": "Estudio de evaluación y de potenciales focos de contaminación en la bah�a de San Jorge",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "187": {
+        "info": {
+            "ciudad": "CS",
+            "id": "187",
+            "idmapa": "CS_5_1_4",
+            "proyecto": "Estudio Material Particulado Sedimentable en Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "188": {
+        "info": {
+            "ciudad": "CS",
+            "id": "188",
+            "idmapa": "CS_5_1_5",
+            "proyecto": "Mapa de Ruido para Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "189": {
+        "info": {
+            "ciudad": "CS",
+            "id": "189",
+            "idmapa": "CS_5_1_6",
+            "proyecto": "Plan de iluminación para Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "190": {
+        "info": {
+            "ciudad": "CS",
+            "id": "190",
+            "idmapa": "CS_5_1_7",
+            "proyecto": "Unidad de Coordinación Calidad Ambiental en Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "191": {
+        "info": {
+            "ciudad": "CS",
+            "id": "191",
+            "idmapa": "CS_5_1_8",
+            "proyecto": "Observatorio de la Calidad Ambiental en Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "192": {
+        "info": {
+            "ciudad": "CS",
+            "id": "192",
+            "idmapa": "CS_5_2_1",
+            "proyecto": "Acuerdo producción Limpia para reducción de emisiones",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "193": {
+        "info": {
+            "ciudad": "CS",
+            "id": "193",
+            "idmapa": "CS_5_2_2",
+            "proyecto": "Plan de remediación de zonas expuesta a uso público con potencial presencia de contaminantes",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "194": {
+        "info": {
+            "ciudad": "CS",
+            "id": "194",
+            "idmapa": "CS_5_2_3",
+            "proyecto": "Plan reducción de contaminación ac�stica en área centro y costanera",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "195": {
+        "info": {
+            "ciudad": "CS",
+            "id": "195",
+            "idmapa": "CS_5_2_4",
+            "proyecto": "Gu�a de diseño para iluminación en espacio público y exteriores de edificaciones en Antofagasta.",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "196": {
+        "info": {
+            "ciudad": "CS",
+            "id": "196",
+            "idmapa": "CS_6_1_1",
+            "proyecto": "Programa 100 ciudades Resilientes",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "197": {
+        "info": {
+            "ciudad": "CS",
+            "id": "197",
+            "idmapa": "CS_6_1_2",
+            "proyecto": "Estrategia  de Resiliencia Urbana para Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "198": {
+        "info": {
+            "ciudad": "CS",
+            "id": "198",
+            "idmapa": "CS_6_1_3",
+            "proyecto": "Gu�a de diseño Aguas Lluvias para Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "199": {
+        "info": {
+            "ciudad": "CS",
+            "id": "199",
+            "idmapa": "CS_6_1_4",
+            "proyecto": "Plan defensas Aluviales en quebradas e infraestructura urbana de aguas lluvias",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "200": {
+        "info": {
+            "ciudad": "CS",
+            "id": "200",
+            "idmapa": "CS_6_1_6",
+            "proyecto": "Habilitación Escuelas Albergues Aut�nomas",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "201": {
+        "info": {
+            "ciudad": "CS",
+            "id": "201",
+            "idmapa": "CS_7_1_1",
+            "proyecto": "Barrio tecnológico y de la energía solar",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "202": {
+        "info": {
+            "ciudad": "CS",
+            "id": "202",
+            "idmapa": "CS_7_1_2",
+            "proyecto": "Programa fomento industria energética sustentable",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "203": {
+        "info": {
+            "ciudad": "CS",
+            "id": "203",
+            "idmapa": "CS_7_1_4",
+            "proyecto": "Modelo Administración y Gestión Barrio Tecnológico y de la energía solar",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "204": {
+        "info": {
+            "ciudad": "CS",
+            "id": "204",
+            "idmapa": "CS_7_2_1",
+            "proyecto": "Linea Base Seguridad Alimentaria y Potencial Agrícola Comunal y Regional",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "205": {
+        "info": {
+            "ciudad": "CS",
+            "id": "205",
+            "idmapa": "CS_7_2_2",
+            "proyecto": "Barrio Agrícola Alto La Portada",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "206": {
+        "info": {
+            "ciudad": "CB",
+            "id": "206",
+            "idmapa": "CB_3_2_8",
+            "proyecto": "Parque y Hub de la Innovación",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "207": {
+        "info": {
+            "ciudad": "CS",
+            "id": "207",
+            "idmapa": "CS_7_3_2",
+            "proyecto": "Modelo Administración y Gestión Distrito de la Innovación",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "208": {
+        "info": {
+            "ciudad": "CS",
+            "id": "208",
+            "idmapa": "CS_7_4_2",
+            "proyecto": "Modelos Administración y Negocios del Sistema Logístico industrial",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "209": {
+        "info": {
+            "ciudad": "CS",
+            "id": "209",
+            "idmapa": "CS_7_5_1",
+            "proyecto": "Nodo Industrias Creativas en Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "210": {
+        "info": {
+            "ciudad": "CS",
+            "id": "210",
+            "idmapa": "CS_7_5_3",
+            "proyecto": "Modelo Administración para Hub de Industrias Creativas Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "211": {
+        "info": {
+            "ciudad": "CS",
+            "id": "211",
+            "idmapa": "CS_7_6_4",
+            "proyecto": "Programa Barrios Comerciales",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "212": {
+        "info": {
+            "ciudad": "CS",
+            "id": "212",
+            "idmapa": "CS_7_7_1",
+            "proyecto": "Antofagasta Convention Bureau",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "213": {
+        "info": {
+            "ciudad": "CS",
+            "id": "213",
+            "idmapa": "CS_7_7_3",
+            "proyecto": "Programa Turismo de Negocios. PTI",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "214": {
+        "info": {
+            "ciudad": "CS",
+            "id": "214",
+            "idmapa": "CS_7_7_4",
+            "proyecto": "Terminal Marítimo de Pasajeros",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "215": {
+        "info": {
+            "ciudad": "CS",
+            "id": "215",
+            "idmapa": "CS_7_7_6",
+            "proyecto": "Nodo Gastronómico Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "216": {
+        "info": {
+            "ciudad": "CS",
+            "id": "216",
+            "idmapa": "CS_7_8_1",
+            "proyecto": "Programa de Educación Global en Miner�a",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "217": {
+        "info": {
+            "ciudad": "CS",
+            "id": "217",
+            "idmapa": "CS_7_8_2",
+            "proyecto": "Barrio Minero",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "218": {
+        "info": {
+            "ciudad": "CS",
+            "id": "218",
+            "idmapa": "CS_7_9_1",
+            "proyecto": "Centro de  Desarrollo de Negocios de Antofagasta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "219": {
+        "info": {
+            "ciudad": "CS",
+            "id": "219",
+            "idmapa": "CS_7_9_2",
+            "proyecto": "Programa de capacitación y asistencia Pymes",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "220": {
+        "info": {
+            "ciudad": "CS",
+            "id": "220",
+            "idmapa": "CS_7_9_3",
+            "proyecto": "Municipalidad Digital",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "221": {
+        "info": {
+            "ciudad": "CS",
+            "id": "221",
+            "idmapa": "CS_7_9_4",
+            "proyecto": "Programa de modernización de Ministerio Bienes Nacionales en Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "222": {
+        "info": {
+            "ciudad": "CS",
+            "id": "222",
+            "idmapa": "CS_7_9_5",
+            "proyecto": "Banco de Suelo Urbano",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "223": {
+        "info": {
+            "ciudad": "CS",
+            "id": "223",
+            "idmapa": "CS_7_9_6",
+            "proyecto": "Agencia para Gestión de barrios y cl�steres",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "224": {
+        "info": {
+            "ciudad": "CA",
+            "id": "224",
+            "idmapa": "CA_1_1_1",
+            "proyecto": "Línea Base Participativa de �conos identitarios  de Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "225": {
+        "info": {
+            "ciudad": "CA",
+            "id": "225",
+            "idmapa": "CA_1_1_2",
+            "proyecto": "Linea gr�fica imagen ciudad",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "226": {
+        "info": {
+            "ciudad": "CA",
+            "id": "226",
+            "idmapa": "CA_1_1_3",
+            "proyecto": "campaña Imagen ciudad Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "227": {
+        "info": {
+            "ciudad": "CA",
+            "id": "227",
+            "idmapa": "CA_1_2_1",
+            "proyecto": "Feria y Festival Intercultural de Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "228": {
+        "info": {
+            "ciudad": "CA",
+            "id": "228",
+            "idmapa": "CA_1_2_2",
+            "proyecto": "Puntos de Cultura Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "229": {
+        "info": {
+            "ciudad": "CA",
+            "id": "229",
+            "idmapa": "CA_1_2_3",
+            "proyecto": "Agenda Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "230": {
+        "info": {
+            "ciudad": "CA",
+            "id": "230",
+            "idmapa": "CA_1_3_1",
+            "proyecto": "Ruta Patrimonial Antofagasta Cultural",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "231": {
+        "info": {
+            "ciudad": "CB",
+            "id": "231",
+            "idmapa": "CB_2_1_7",
+            "proyecto": "Ruta Patrimonial Antofagasta Hist�rica",
+            "tipo": "INFRAESTRUCTURA Y PROGRAMA"
+        }
+    },
+    "232": {
+        "info": {
+            "ciudad": "CA",
+            "id": "232",
+            "idmapa": "CA_1_3_3",
+            "proyecto": "Ruta Patrimonial Borde Costero",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "233": {
+        "info": {
+            "ciudad": "CA",
+            "id": "233",
+            "idmapa": "CA_1_3_4",
+            "proyecto": "Ruta Antofagasta Moderna",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "234": {
+        "info": {
+            "ciudad": "CA",
+            "id": "234",
+            "idmapa": "CA_1_3_5",
+            "proyecto": "Ruta Patrimonial Cementerio",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "235": {
+        "info": {
+            "ciudad": "CA",
+            "id": "235",
+            "idmapa": "CA_1_3_6",
+            "proyecto": "Ruta Antofagasta Religiosa",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "236": {
+        "info": {
+            "ciudad": "CA",
+            "id": "236",
+            "idmapa": "CA_1_3_7",
+            "proyecto": "Ruta Antofagasta de la Memoria",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "237": {
+        "info": {
+            "ciudad": "CA",
+            "id": "237",
+            "idmapa": "CA_1_3_8",
+            "proyecto": "Ruta Patrimonial del Salitre",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "238": {
+        "info": {
+            "ciudad": "CA",
+            "id": "238",
+            "idmapa": "CA_1_3_9",
+            "proyecto": "Ruta Antofagasta Astron�mica",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "239": {
+        "info": {
+            "ciudad": "CA",
+            "id": "239",
+            "idmapa": "CA_1_3_10",
+            "proyecto": "Ruta Geol�gica",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "240": {
+        "info": {
+            "ciudad": "CA",
+            "id": "240",
+            "idmapa": "CA_1_3_11",
+            "proyecto": "Ruta Gastronómica Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "241": {
+        "info": {
+            "ciudad": "CA",
+            "id": "241",
+            "idmapa": "CA_1_3_12",
+            "proyecto": "Línea Base Patrimonio material e inmaterial Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "242": {
+        "info": {
+            "ciudad": "CA",
+            "id": "242",
+            "idmapa": "CA_1_3_13",
+            "proyecto": "Gu�a de diseño Patrimonio Urbano Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "243": {
+        "info": {
+            "ciudad": "CA",
+            "id": "243",
+            "idmapa": "CA_1_3_14",
+            "proyecto": "Creación gu�a web y app patrimonio de turismo cultural",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "244": {
+        "info": {
+            "ciudad": "CA",
+            "id": "244",
+            "idmapa": "CA_1_3_15",
+            "proyecto": "Programa Vig�as del Patrimonio",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "245": {
+        "info": {
+            "ciudad": "CA",
+            "id": "245",
+            "idmapa": "CA_1_3_16",
+            "proyecto": "Programa Formación de Operadores Turísticos",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "246": {
+        "info": {
+            "ciudad": "CA",
+            "id": "246",
+            "idmapa": "CA_1_3_17",
+            "proyecto": "Escuela Taller de Oficios Patrimoniales Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "247": {
+        "info": {
+            "ciudad": "CA",
+            "id": "247",
+            "idmapa": "CA_1_3_18",
+            "proyecto": "Programa Recreo Mi Identidad",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "248": {
+        "info": {
+            "ciudad": "CA",
+            "id": "248",
+            "idmapa": "CA_1_3_19",
+            "proyecto": "Bici Rutas Culturales",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "249": {
+        "info": {
+            "ciudad": "CA",
+            "id": "249",
+            "idmapa": "CA_1_4_1",
+            "proyecto": "Plan Maestro Parque Cultural Ruinas de Huanchaca",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "250": {
+        "info": {
+            "ciudad": "CA",
+            "id": "250",
+            "idmapa": "CA_1_4_2",
+            "proyecto": "Parque Cultural Ruinas de Huanchaca. Museo de Sitio y Arqueol�gico",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "251": {
+        "info": {
+            "ciudad": "CA",
+            "id": "251",
+            "idmapa": "CA_1_4_3",
+            "proyecto": "Parque Cultural Huanchaca. Parque Mirador y Centro Integral de la Cultura y Las Artes",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "252": {
+        "info": {
+            "ciudad": "CA",
+            "id": "252",
+            "idmapa": "CA_1_4_4",
+            "proyecto": "Parque Cultural Huanchaca. Parque Eventos y Centro de Convenciones",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "253": {
+        "info": {
+            "ciudad": "CA",
+            "id": "253",
+            "idmapa": "CA_1_4_5",
+            "proyecto": "Out of Sync",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "254": {
+        "info": {
+            "ciudad": "CA",
+            "id": "254",
+            "idmapa": "CA_1_4_6",
+            "proyecto": "Anfiteatro Ruinas de Huanchaca",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "255": {
+        "info": {
+            "ciudad": "CA",
+            "id": "255",
+            "idmapa": "CA_1_5_1",
+            "proyecto": "Nuevo Archivo Regional",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "256": {
+        "info": {
+            "ciudad": "CA",
+            "id": "256",
+            "idmapa": "CA_1_5_2",
+            "proyecto": "Casa Abaroa de las Artes Esc�nicas",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "257": {
+        "info": {
+            "ciudad": "CA",
+            "id": "257",
+            "idmapa": "CA_1_5_3",
+            "proyecto": "Espacio Cultural Playa La Chimba",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "258": {
+        "info": {
+            "ciudad": "CA",
+            "id": "258",
+            "idmapa": "CA_1_5_4",
+            "proyecto": "Parque del Arte Urbano - Nicol�s Tirado",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "259": {
+        "info": {
+            "ciudad": "CA",
+            "id": "259",
+            "idmapa": "CA_1_5_5",
+            "proyecto": "Centro de los Bailes Religiosos en Plaza Bicentenario",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "260": {
+        "info": {
+            "ciudad": "CA",
+            "id": "260",
+            "idmapa": "CA_1_5_6",
+            "proyecto": "Teatro Muncipal de Antofagasta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "261": {
+        "info": {
+            "ciudad": "CA",
+            "id": "261",
+            "idmapa": "CA_2_1_1",
+            "proyecto": "Programa Coaching L�deres sociales",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "262": {
+        "info": {
+            "ciudad": "CA",
+            "id": "262",
+            "idmapa": "CA_2_1_2",
+            "proyecto": "Programa formación de lideres  en temas urbanos",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "263": {
+        "info": {
+            "ciudad": "CA",
+            "id": "263",
+            "idmapa": "CA_2_1_3",
+            "proyecto": "Tesis Ciudad",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "264": {
+        "info": {
+            "ciudad": "CA",
+            "id": "264",
+            "idmapa": "CA_2_1_4",
+            "proyecto": "Campeonato debates urbanos a nivel escolar y universitario",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "265": {
+        "info": {
+            "ciudad": "CA",
+            "id": "265",
+            "idmapa": "CA_2_2_1",
+            "proyecto": "AntofaEmprende, construye",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "266": {
+        "info": {
+            "ciudad": "CA",
+            "id": "266",
+            "idmapa": "CA_2_2_2",
+            "proyecto": "AntofaEmprende desaf�os ciudad",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "267": {
+        "info": {
+            "ciudad": "CA",
+            "id": "267",
+            "idmapa": "CA_2_2_3",
+            "proyecto": "Mesa Regional Innovación Social",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "268": {
+        "info": {
+            "ciudad": "CA",
+            "id": "268",
+            "idmapa": "CA_2_2_4",
+            "proyecto": "Feria Internacional de Innovación Social FIIS",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "269": {
+        "info": {
+            "ciudad": "CA",
+            "id": "269",
+            "idmapa": "CA_2_3_1",
+            "proyecto": "Pabell�n y Maqueta Antofagasta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "270": {
+        "info": {
+            "ciudad": "CA",
+            "id": "270",
+            "idmapa": "CA_2_3_2",
+            "proyecto": "Plataforma Digital Participación Ciudadana - Antofagasta Activa",
+            "tipo": "INFRAESTRUCTURA Y PROGRAMA"
+        }
+    },
+    "271": {
+        "info": {
+            "ciudad": "CA",
+            "id": "271",
+            "idmapa": "CA_2_3_3",
+            "proyecto": "Formación área de participación Ciudadana IMA-COSOC",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "272": {
+        "info": {
+            "ciudad": "CA",
+            "id": "272",
+            "idmapa": "CA_2_3_4",
+            "proyecto": "Consolidación Consejo Ciudadano Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "273": {
+        "info": {
+            "ciudad": "CA",
+            "id": "273",
+            "idmapa": "CA_2_3_5",
+            "proyecto": "Observatorio urbano - ciudadano: �Antofagasta C�mo Vamos?",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "274": {
+        "info": {
+            "ciudad": "CA",
+            "id": "274",
+            "idmapa": "CA_2_3_6",
+            "proyecto": "Linea Base Participación Ciudadana",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "275": {
+        "info": {
+            "ciudad": "CA",
+            "id": "275",
+            "idmapa": "CA_2_3_7",
+            "proyecto": "Recomendaciones a Ordenanza Comunal de Participación Ciudadana",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "276": {
+        "info": {
+            "ciudad": "CA",
+            "id": "276",
+            "idmapa": "CA_2_3_8",
+            "proyecto": "CLIC - Centros de lideres para la Innovación Ciudadana",
+            "tipo": "INFRAESTRUCTURA Y PROGRAMA"
+        }
+    },
+    "277": {
+        "info": {
+            "ciudad": "CB",
+            "id": "277",
+            "idmapa": "CB_3_2_4",
+            "proyecto": "Parque Norte y Centro Comercial (sector ex Club H�pico)",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "278": {
+        "info": {
+            "ciudad": "CB",
+            "id": "278",
+            "idmapa": "CB_1_1_2",
+            "proyecto": "Nuevo Barrio Los Arenales",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "279": {
+        "info": {
+            "ciudad": "CB",
+            "id": "279",
+            "idmapa": "CB_1_1_3",
+            "proyecto": "Nuevo Barrio Norte ex Club H�pico",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "280": {
+        "info": {
+            "ciudad": "CB",
+            "id": "280",
+            "idmapa": "CB_1_1_4",
+            "proyecto": "Nuevo Barrio de La Sustentabilidad - Reconversi�n Barrio Industrial",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "281": {
+        "info": {
+            "ciudad": "CB",
+            "id": "281",
+            "idmapa": "CB_1_1_5",
+            "proyecto": "Nuevo  Barrio Centro Ferrocarril Antofagasta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "282": {
+        "info": {
+            "ciudad": "CB",
+            "id": "282",
+            "idmapa": "CB_1_1_6",
+            "proyecto": "Nuevo Barrio Angamos Sur -  U Cat�lica del Norte.",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "283": {
+        "info": {
+            "ciudad": "CB",
+            "id": "283",
+            "idmapa": "CB_1_1_7",
+            "proyecto": "Nuevo Barrio Altos Gran vía - Coviefi",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "284": {
+        "info": {
+            "ciudad": "CB",
+            "id": "284",
+            "idmapa": "CB_1_1_8",
+            "proyecto": "Nuevo Barrio  Sur - U Antofagasta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "285": {
+        "info": {
+            "ciudad": "CB",
+            "id": "285",
+            "idmapa": "CB_3_2_16",
+            "proyecto": "Parque Meseta Norte",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "286": {
+        "info": {
+            "ciudad": "CB",
+            "id": "286",
+            "idmapa": "CB_1_2_1",
+            "proyecto": "Regeneración Barrio Condominio Jorge Alessandri",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "287": {
+        "info": {
+            "ciudad": "CB",
+            "id": "287",
+            "idmapa": "CB_1_2_2",
+            "proyecto": "Regeneración Barrio Centro Antofagasta",
+            "tipo": "INFRAESTRUCTURA Y PROGRAMA"
+        }
+    },
+    "288": {
+        "info": {
+            "ciudad": "CB",
+            "id": "288",
+            "idmapa": "CB_2_1_1",
+            "proyecto": "Mejoramiento de red peatonal inclusiva en área centro",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "289": {
+        "info": {
+            "ciudad": "CB",
+            "id": "289",
+            "idmapa": "CB_2_1_3",
+            "proyecto": "Red de Estacionamientos Públicos en área Centro",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "290": {
+        "info": {
+            "ciudad": "CB",
+            "id": "290",
+            "idmapa": "CB_2_1_5",
+            "proyecto": "Modelo de Gestión, mantención de espacios públicos y mobiliario urbano en área centro",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "291": {
+        "info": {
+            "ciudad": "CB",
+            "id": "291",
+            "idmapa": "CB_2_1_6",
+            "proyecto": "Gu�a de diseño urbano en área centro y recomendaciones ordenanza municipal",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "292": {
+        "info": {
+            "ciudad": "CB",
+            "id": "292",
+            "idmapa": "CB_2_1_8",
+            "proyecto": "Paseo Peatonal Matta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "293": {
+        "info": {
+            "ciudad": "CB",
+            "id": "293",
+            "idmapa": "CB_2_1_9",
+            "proyecto": "Plan de Renovación Urbana del Centro",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "294": {
+        "info": {
+            "ciudad": "CB",
+            "id": "294",
+            "idmapa": "CB_2_1_10",
+            "proyecto": "Plan de Activación área Centro",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "295": {
+        "info": {
+            "ciudad": "CB",
+            "id": "295",
+            "idmapa": "CB_2_2_1",
+            "proyecto": "Subcentro La Chimba",
+            "tipo": "INFRAESTRUCTURA Y PROGRAMA"
+        }
+    },
+    "296": {
+        "info": {
+            "ciudad": "CB",
+            "id": "296",
+            "idmapa": "CB_2_2_2",
+            "proyecto": "Subcentro Trocadero",
+            "tipo": "INFRAESTRUCTURA Y PROGRAMA"
+        }
+    },
+    "297": {
+        "info": {
+            "ciudad": "CB",
+            "id": "297",
+            "idmapa": "CB_2_2_3",
+            "proyecto": "Subcentro Hospital",
+            "tipo": "INFRAESTRUCTURA Y PROGRAMA"
+        }
+    },
+    "298": {
+        "info": {
+            "ciudad": "CB",
+            "id": "298",
+            "idmapa": "CB_2_2_4",
+            "proyecto": "Subcentro Angamos",
+            "tipo": "INFRAESTRUCTURA Y PROGRAMA"
+        }
+    },
+    "299": {
+        "info": {
+            "ciudad": "CB",
+            "id": "299",
+            "idmapa": "CB_2_3_1",
+            "proyecto": "Centro de Barrio La Chimba",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "300": {
+        "info": {
+            "ciudad": "CB",
+            "id": "300",
+            "idmapa": "CB_2_3_2",
+            "proyecto": "Centro de Barrio Quebrada La Chimba",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "301": {
+        "info": {
+            "ciudad": "CB",
+            "id": "301",
+            "idmapa": "CB_2_3_3",
+            "proyecto": "Centro de Barrio Vladimir Saavedra",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "302": {
+        "info": {
+            "ciudad": "CB",
+            "id": "302",
+            "idmapa": "CB_2_3_4",
+            "proyecto": "Centro de Barrio Chimba Alta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "303": {
+        "info": {
+            "ciudad": "CB",
+            "id": "303",
+            "idmapa": "CB_2_3_5",
+            "proyecto": "Centro de Barrio Patricio Cariola",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "304": {
+        "info": {
+            "ciudad": "CB",
+            "id": "304",
+            "idmapa": "CB_2_3_6",
+            "proyecto": "Centro de Barrio Juan L�pez",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "305": {
+        "info": {
+            "ciudad": "CB",
+            "id": "305",
+            "idmapa": "CB_2_3_7",
+            "proyecto": "Centro de Barrio Bicentenario",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "306": {
+        "info": {
+            "ciudad": "CB",
+            "id": "306",
+            "idmapa": "CB_2_3_8",
+            "proyecto": "Centro de Barrio Juan Bol�var",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "307": {
+        "info": {
+            "ciudad": "CB",
+            "id": "307",
+            "idmapa": "CB_2_3_9",
+            "proyecto": "Centro de Barrio Nicol�s Tirado Alto",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "308": {
+        "info": {
+            "ciudad": "CB",
+            "id": "308",
+            "idmapa": "CB_2_3_10",
+            "proyecto": "Centro de Barrio Morro de Arica",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "309": {
+        "info": {
+            "ciudad": "CB",
+            "id": "309",
+            "idmapa": "CB_2_3_11",
+            "proyecto": "Centro de Barrio Feria de las Pulgas",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "310": {
+        "info": {
+            "ciudad": "CB",
+            "id": "310",
+            "idmapa": "CB_2_3_12",
+            "proyecto": "Centro de Barrio Las Am�ricas",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "311": {
+        "info": {
+            "ciudad": "CB",
+            "id": "311",
+            "idmapa": "CB_2_3_13",
+            "proyecto": "Centro de Barrio Los Arenales",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "312": {
+        "info": {
+            "ciudad": "CB",
+            "id": "312",
+            "idmapa": "CB_2_3_14",
+            "proyecto": "Centro de Barrio Don Bosco",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "313": {
+        "info": {
+            "ciudad": "CB",
+            "id": "313",
+            "idmapa": "CB_2_3_15",
+            "proyecto": "Centro de Barrio Bandera",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "314": {
+        "info": {
+            "ciudad": "CB",
+            "id": "314",
+            "idmapa": "CB_2_3_16",
+            "proyecto": "Centro de Barrio Irarr�zaval",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "315": {
+        "info": {
+            "ciudad": "CB",
+            "id": "315",
+            "idmapa": "CB_2_3_17",
+            "proyecto": "Centro de Barrio Juvenal Morla",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "316": {
+        "info": {
+            "ciudad": "CB",
+            "id": "316",
+            "idmapa": "CB_2_3_18",
+            "proyecto": "Centro de Barrio Villa Frei",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "317": {
+        "info": {
+            "ciudad": "CB",
+            "id": "317",
+            "idmapa": "CB_2_3_19",
+            "proyecto": "Centro de Barrio Liceo Industrial",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "318": {
+        "info": {
+            "ciudad": "CB",
+            "id": "318",
+            "idmapa": "CB_2_3_20",
+            "proyecto": "Centro de Barrio Arturo Prat",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "319": {
+        "info": {
+            "ciudad": "CB",
+            "id": "319",
+            "idmapa": "CB_2_3_21",
+            "proyecto": "Centro de Barrio Sagasca",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "320": {
+        "info": {
+            "ciudad": "CB",
+            "id": "320",
+            "idmapa": "CB_2_3_22",
+            "proyecto": "Centro de Barrio Gustavo Le Paige",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "321": {
+        "info": {
+            "ciudad": "CB",
+            "id": "321",
+            "idmapa": "CB_2_3_23",
+            "proyecto": "Centro de Barrio In�s de Su�rez",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "322": {
+        "info": {
+            "ciudad": "CB",
+            "id": "322",
+            "idmapa": "CB_2_3_24",
+            "proyecto": "Centro de Barrio Las Condes",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "323": {
+        "info": {
+            "ciudad": "CB",
+            "id": "323",
+            "idmapa": "CB_2_3_25",
+            "proyecto": "Centro de Barrio Bellavista",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "324": {
+        "info": {
+            "ciudad": "CB",
+            "id": "324",
+            "idmapa": "CB_2_3_26",
+            "proyecto": "Centro de Barrio Jos� Miguel Carrera",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "325": {
+        "info": {
+            "ciudad": "CB",
+            "id": "325",
+            "idmapa": "CB_2_3_27",
+            "proyecto": "Centro de Barrio Topater",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "326": {
+        "info": {
+            "ciudad": "CB",
+            "id": "326",
+            "idmapa": "CB_2_3_28",
+            "proyecto": "Centro de Barrio Antonio Rendic",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "327": {
+        "info": {
+            "ciudad": "CB",
+            "id": "327",
+            "idmapa": "CB_2_3_29",
+            "proyecto": "Centro de Barrio Matta",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "328": {
+        "info": {
+            "ciudad": "CB",
+            "id": "328",
+            "idmapa": "CB_2_3_30",
+            "proyecto": "Centro de Barrio Ren� Schneider",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "329": {
+        "info": {
+            "ciudad": "CB",
+            "id": "329",
+            "idmapa": "CB_2_3_31",
+            "proyecto": "Centro de Barrio Miramar",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "330": {
+        "info": {
+            "ciudad": "CB",
+            "id": "330",
+            "idmapa": "CB_2_3_32",
+            "proyecto": "Centro de Barrio Hospital del Salvador",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "331": {
+        "info": {
+            "ciudad": "CB",
+            "id": "331",
+            "idmapa": "CB_2_3_33",
+            "proyecto": "Centro de Barrio Constancia",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "332": {
+        "info": {
+            "ciudad": "CB",
+            "id": "332",
+            "idmapa": "CB_2_3_34",
+            "proyecto": "Centro de Barrio Favorecedora",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "333": {
+        "info": {
+            "ciudad": "CB",
+            "id": "333",
+            "idmapa": "CB_2_3_35",
+            "proyecto": "Centro de Barrio Calvo y Bascu��n",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "334": {
+        "info": {
+            "ciudad": "CB",
+            "id": "334",
+            "idmapa": "CB_2_3_36",
+            "proyecto": "Centro de Barrio Homero �vila",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "335": {
+        "info": {
+            "ciudad": "CB",
+            "id": "335",
+            "idmapa": "CB_2_3_37",
+            "proyecto": "Centro de Barrio Lautaro",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "336": {
+        "info": {
+            "ciudad": "CB",
+            "id": "336",
+            "idmapa": "CB_2_3_38",
+            "proyecto": "Centro de Barrio Espa�a",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "337": {
+        "info": {
+            "ciudad": "CB",
+            "id": "337",
+            "idmapa": "CB_2_3_39",
+            "proyecto": "Centro de Barrio Patio Norte",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "338": {
+        "info": {
+            "ciudad": "CB",
+            "id": "338",
+            "idmapa": "CB_2_3_40",
+            "proyecto": "Centro de Barrio Parque Brasil",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "339": {
+        "info": {
+            "ciudad": "CB",
+            "id": "339",
+            "idmapa": "CB_2_3_41",
+            "proyecto": "Centro de Barrio Caliche",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "340": {
+        "info": {
+            "ciudad": "CB",
+            "id": "340",
+            "idmapa": "CB_2_3_42",
+            "proyecto": "Centro de Barrio Huanchaca",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "341": {
+        "info": {
+            "ciudad": "CB",
+            "id": "341",
+            "idmapa": "CB_2_3_43",
+            "proyecto": "Centro de Barrio Coviefi",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "342": {
+        "info": {
+            "ciudad": "CB",
+            "id": "342",
+            "idmapa": "CB_2_3_44",
+            "proyecto": "Centro de Barrio Poza Los Gringos",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "343": {
+        "info": {
+            "ciudad": "CB",
+            "id": "343",
+            "idmapa": "CB_2_3_45",
+            "proyecto": "Centro de Barrio Hu�scar",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "344": {
+        "info": {
+            "ciudad": "CB",
+            "id": "344",
+            "idmapa": "CB_3_1_1",
+            "proyecto": "Antofagasta Limpia y Conectada ALC Centro Norte_Plazas y conexiones",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "345": {
+        "info": {
+            "ciudad": "CB",
+            "id": "345",
+            "idmapa": "CB_3_1_2",
+            "proyecto": "Antofagasta Limpia y Conectada ALC Centro Norte_Plan de Activación",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "346": {
+        "info": {
+            "ciudad": "CB",
+            "id": "346",
+            "idmapa": "CB_3_1_3",
+            "proyecto": "Antofagasta Limpia y Conectada ALC Centro Alto_Plazas y conexiones",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "347": {
+        "info": {
+            "ciudad": "CB",
+            "id": "347",
+            "idmapa": "CB_3_1_4",
+            "proyecto": "Antofagasta Limpia y Conectada ALC Centro Alto_Plan de Activación",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "348": {
+        "info": {
+            "ciudad": "CB",
+            "id": "348",
+            "idmapa": "CB_3_1_5",
+            "proyecto": "Calles de Barrio Villa M�xico",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "349": {
+        "info": {
+            "ciudad": "CB",
+            "id": "349",
+            "idmapa": "CB_3_1_6",
+            "proyecto": "Calles de Barrio Lautaro (10K)",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "350": {
+        "info": {
+            "ciudad": "CB",
+            "id": "350",
+            "idmapa": "CB_3_2_1",
+            "proyecto": "Parque La Chimba Bajo",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "351": {
+        "info": {
+            "ciudad": "CB",
+            "id": "351",
+            "idmapa": "CB_3_2_2",
+            "proyecto": "Parque La Chimba Alto",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "352": {
+        "info": {
+            "ciudad": "CB",
+            "id": "352",
+            "idmapa": "CB_3_2_3",
+            "proyecto": "Parque Juan L�pez",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "353": {
+        "info": {
+            "ciudad": "CB",
+            "id": "353",
+            "idmapa": "CB_3_2_5",
+            "proyecto": "Parque Gran Avenida",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "354": {
+        "info": {
+            "ciudad": "CB",
+            "id": "354",
+            "idmapa": "CB_3_2_6",
+            "proyecto": "Parque Villa Esperanza",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "355": {
+        "info": {
+            "ciudad": "CB",
+            "id": "355",
+            "idmapa": "CB_3_2_7",
+            "proyecto": "Parque Vivero Municipal",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "356": {
+        "info": {
+            "ciudad": "CB",
+            "id": "356",
+            "idmapa": "CB_3_2_9",
+            "proyecto": "Parque Brasil",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "357": {
+        "info": {
+            "ciudad": "CB",
+            "id": "357",
+            "idmapa": "CB_3_2_10",
+            "proyecto": "Parque Teniente Merino",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "358": {
+        "info": {
+            "ciudad": "CB",
+            "id": "358",
+            "idmapa": "CB_3_2_11",
+            "proyecto": "Parque Ren� Schneider",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "359": {
+        "info": {
+            "ciudad": "CB",
+            "id": "359",
+            "idmapa": "CB_3_2_12",
+            "proyecto": "Parque Balmaceda",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "360": {
+        "info": {
+            "ciudad": "CB",
+            "id": "360",
+            "idmapa": "CB_3_2_15",
+            "proyecto": "Parque Las Vertientes",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "361": {
+        "info": {
+            "ciudad": "CB",
+            "id": "361",
+            "idmapa": "CB_3_2_17",
+            "proyecto": "Parque Urbano Linea Verde",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "362": {
+        "info": {
+            "ciudad": "CB",
+            "id": "362",
+            "idmapa": "CB_3_2_19",
+            "proyecto": "Programa de Capacitación en Modelos de Administración de Infraestructura Pública",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "363": {
+        "info": {
+            "ciudad": "CB",
+            "id": "363",
+            "idmapa": "CB_3_2_20",
+            "proyecto": "Recomendaciones Normativas Espacio Público",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "364": {
+        "info": {
+            "ciudad": "CB",
+            "id": "364",
+            "idmapa": "CB_3_2_21",
+            "proyecto": "Manual de diseño y mantención del Espacio Público, mobiliario urbano y áreas verdes de la ciudad de Antofagasta",
+            "tipo": "PROGRAMA O ESTUDIO"
+        }
+    },
+    "249-P254": {
+        "info": {
+            "ciudad": "CB",
+            "id": "249-P254",
+            "idmapa": "CB_3_2_14",
+            "proyecto": "Parque Cultural Ruinas de Huanchaca",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "299-P343": {
+        "info": {
+            "ciudad": "CS",
+            "id": "299-P343",
+            "idmapa": "CS_7_6_1",
+            "proyecto": "Plan Centros de Barrio",
+            "tipo": "INFRAESTRUCTURA"
+        }
+    },
+    "68-P126": {
+        "info": {
+            "ciudad": "CB",
+            "id": "68-P126",
+            "idmapa": "CB_3_2_18",
+            "proyecto": "Iniciativas y proyectos Estrategia Parque Metropolitano de Borde Costero",
+            "tipo": "INFRAESTRUCTURA/ PROGRAMA"
+        }
+    }
+}

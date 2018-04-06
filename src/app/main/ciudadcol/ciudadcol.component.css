@@ -1,0 +1,126 @@
+.contenedor{
+    display: flex; /* or inline-flex */
+    flex-direction: row 
+      
+}
+.col-20{
+    width: 20%;
+    height: 100vh;
+    border: solid 1px #999;
+    display: grid;
+    justify-content: center;
+    overflow-y: hidden;
+
+}
+.col-ca{
+    background-image: url("/assets/img/CA_COL.jpg");
+    background-position-x: center;
+    background-size: auto 100%;
+}
+.col-cm{
+    background-image: url("/assets/img/CM_COL.jpg");
+    background-position-x: center;
+    background-size: auto 100%;
+}
+
+.col-cb{
+    background-image: url("/assets/img/CB_COL.jpg");
+    background-position-x: center;
+    background-size: auto 100%;
+}
+.col-cs{
+    background-image: url("/assets/img/CS_COL.jpg");
+    background-position-x: center;
+    background-size: auto 100%;
+}
+.col-ci{
+    background-image: url("/assets/img/CI_COL.jpg");
+    background-position-x: center;
+    background-size: auto 100%;
+}
+.iconos{
+    
+    align-self: flex-end;
+    bottom: 0px;
+
+}
+.botones{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px 15px;
+}
+/*.iconos:hover{
+    align-self: flex-end;
+    animation-name: subir;
+    animation-duration: 2s;
+    animation-fill-mode: both;
+
+}
+
+.iconos:hover > .botones{
+    display: block;
+}*/
+
+@keyframes subir {
+    0%   {padding-bottom:0px;}
+    100% {padding-bottom: 140px;}
+}
+.txtcolbut{
+    width: 200px;
+    font-size: 12px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.buton{
+    border-radius: 5px;
+    margin: 10px;
+    padding-top: 10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-bottom: 10px;
+    
+}
+
+a>.buton:hover{
+    border-radius: 5px;
+    margin: 10px;
+    padding-top: 10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+.tam-icon{
+    width: 150px;
+    margin-bottom: 40px;
+}
+.font-icon{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+
+}
+.set-container{
+display: grid;
+grid-template-rows: 160px 40px 60px 120px;
+width: 100%;
+/*margin-bottom: -180px;*/
+margin-bottom: 0px;
+align-self: end;
+}
+/*.set-container:hover{
+    animation-name: subir;
+    animation-duration: 2s;
+    animation-fill-mode: both;
+}*/
+.set-icon{
+    text-align: center;
+}
+.set-botones{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.set-text{
+    padding: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 12px;    
+}

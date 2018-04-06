@@ -1,0 +1,45 @@
+<div class="menusup">
+  <div class="botmenu">
+      <div class="col-sm-4">
+        <div class="row">
+            <div class="col-xs-4 latder">
+               <a href="./ciudades"> <img src="../../assets/logocreo.png" alt=""></a>        
+              </div>
+              <div class="col-xs-8">
+                  <div class="text-tit">
+                    Es un Plan que nace para enfrentar el desafio de <strong>crecimiento para la Ciudad</strong>
+                  </div>
+                </div>
+        </div>
+        </div>
+    <div class="col-sm-8">
+<div class="row">
+  <div class="lineup"></div>
+</div>
+<div *ngIf="showmenumap" class="row">
+    <div class="marcociudad cin butfil" (click)="Eligeciudad('CI'); tipociudad = 'ci'" >
+        <div class="marcociudad-check cin-darken"><span *ngIf="tipociudad=='ci'" class="glyphicon glyphicon-ok" aria-hidden="true"></span><span *ngIf="tipociudad!=='ci'" class="glyphicon glyphicon-unchecked" aria-hidden="true"></span></div>
+        <div class="marcociudad-texto">CIUDAD INTEGRADA*</div>
+      </div>
+      <div class="marcociudad cac butfil" (click)="Eligeciudad('CA'); tipociudad = 'ca'" >
+          <div class="marcociudad-check cac-darken"><span *ngIf="tipociudad=='ca'" class="glyphicon glyphicon-ok" aria-hidden="true"></span><span *ngIf="tipociudad!=='ca'" class="glyphicon glyphicon-unchecked" aria-hidden="true"></span></div>
+          <div class="marcociudad-texto">CIUDAD ACTIVA</div>
+        </div>
+      <div class="marcociudad csus butfil" (click)="Eligeciudad('CS'); tipociudad = 'cs'" >
+          <div class="marcociudad-check csus-darken"><span *ngIf="tipociudad=='cs'" class="glyphicon glyphicon-ok" aria-hidden="true"></span><span *ngIf="tipociudad!=='cs'" class="glyphicon glyphicon-unchecked" aria-hidden="true"></span></div>
+          <div class="marcociudad-texto">CIUDAD SUSTENTABLE</div>
+      </div>
+      <div class="marcociudad cdm butfil" (click)="Eligeciudad('CM');tipociudad = 'cm'" >
+          <div class="marcociudad-check cdm-darken"><span *ngIf="tipociudad=='cm'" class="glyphicon glyphicon-ok" aria-hidden="true"></span><span *ngIf="tipociudad!=='cm'" class="glyphicon glyphicon-unchecked" aria-hidden="true"></span></div>
+          <div class="marcociudad-texto">CIUDAD MAR</div>
+      </div>
+      <div class="marcociudad cdb butfil" (click)="Eligeciudad('CB'); tipociudad = 'cb'" >
+          <div class="marcociudad-check cdb-darken"><span *ngIf="tipociudad=='cb'" class="glyphicon glyphicon-ok" aria-hidden="true"></span><span *ngIf="tipociudad!=='cb'" class="glyphicon glyphicon-unchecked" aria-hidden="true"></span></div>
+          <div class="marcociudad-texto">CIUDAD BARRIOS</div>
+      </div>
+</div>
+
+    </div>
+  </div>
+  <div class="botmenuder"><span class="glyphicon glyphicon-menu-hamburger " aria-hidden="true"></span></div>
+</div>

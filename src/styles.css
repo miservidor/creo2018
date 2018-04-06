@@ -1,1 +1,307 @@
 /* You can add global styles to this file, and also import other style files */
+.menumap{
+    top: 80px;
+    z-index: 999;
+    position: absolute;
+    width: 30vw;
+    display: flex;
+}
+.menuciudad{
+    background: rgba(255, 255, 255, 0.7);
+    width: 30vw;
+    float: left;
+}
+.latder{
+    border-right: solid 2px #adadad;
+}
+.marcociudad{
+width: 18%;
+
+display: inline-block;
+}
+.marcociudad-check{
+width: 40px;
+display: inline-block;
+padding-top:10px;
+padding-bottom:10px;
+text-align: center; 
+}
+.marcociudad-texto{
+width: 140px;
+display: inline-block;
+text-align: center; 
+font-family: 'Nunito', sans-serif;
+font-size: 12px;
+}
+.lineup{
+    height: 20px;
+}
+.menusup{
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    background: white;
+    color: white;
+    box-shadow: 2px 2px 2px #444444;
+    position: absolute;
+    z-index: 9999;
+    display: flex;
+}
+.menucentro{
+    width: 30%;
+    pointer-events: none;
+}
+.granborder{
+    background: yellowgreen;
+}
+.menuciudet{
+    width: 40%;
+    background: rgba(255, 255, 255, 0.7);
+    font-family: 'Oswald', sans-serif;
+    float: right;
+    height: 200px;
+}
+.rowcity{
+    width: 100%;
+    display: flex;
+    min-height: 30px;
+    margin: 4px;
+    background: white;
+    font-family: 'Oswald', sans-serif;
+}
+.rowcity:hover{
+    background: rgb(227, 241, 194);
+
+}
+
+.rowcitymap{
+    width: 100%;
+    display: flex;
+    min-height: 30px;
+    margin: 4px;
+    background: rgb(227, 241, 194);
+    font-family: 'Oswald', sans-serif;
+}
+
+.rowcitymap::after {
+    width: 100%;
+    display: flex;
+    min-height: 30px;
+    margin: 4px;
+    background: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.rowcity-icon{
+width:15%;
+min-height: 50px;
+display: inline-block;
+}
+.rowcity-text{
+    width:55%;
+    text-align: left;
+    padding: 10px;
+    display: inline-block;
+}
+.rowcity-img{
+    width: 30%;
+    display: inline-block;
+}
+
+.text-tit{
+    color:#5bc0de;
+    font-family: 'Bitter', serif;
+    font-weight: 600;
+    
+}
+input{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    padding: 5px;
+}
+.botmenu{
+    padding-left: 20px;
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+    width: 90%;
+}
+.menuls{
+    display: flex;
+    width: 100%;
+}
+.cuarto{
+    width: 25%;
+}
+.botmenuder{
+    float: right;
+    width: 10%;
+    text-align: right;
+    padding-right: 10px;
+    font-size: 20px;
+}
+.input-filter{
+    width: 90%;
+    margin: 5px;
+}
+
+.menulsizq{
+    width: 10%;
+}
+.menulsder{
+    width: 90%;
+}
+
+/* Clases de CREO  */
+/* Ciudad Integrada  */
+.cin {
+    background: #EAB630;
+    color: aliceblue;
+
+
+}
+.cin-darken {
+    background:#D19C15;
+    color: white;
+}
+
+.butfil{
+    font-size: 12px;
+    font-family: 'Oswald', sans-serif;
+}
+.font-ca{
+    color: #D25A2B;
+}
+.font-cs{
+    color: #449C44;
+}
+.font-ci{
+    color: #D19C15;
+}
+.font-cm{
+    color: #5bc0de;
+}
+.font-cb{
+    color: #4D4D4D;
+}
+.tit-tablon{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.ca-filter{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+.cac {
+   background: #D25A2B;
+    color: aliceblue;
+
+}
+.cac-darken {
+    background: #A94923;
+    color: white;
+
+}
+.csus {
+    background: #5cb85c;
+    color: aliceblue;
+ 
+}
+.csus-darken {
+    background: #449C44;
+    color: white;
+
+}
+.cdm {
+    background: #5bc0de;
+    color: aliceblue;
+
+}
+.icon-right{
+font-size: 30px;
+float: right;
+color: #4D4D4D;
+}
+.cdm-darken {
+    background: #30AED5;
+    color: white;
+
+}
+.cdb {
+    background: #666666;
+    color: aliceblue;
+
+}
+.cdb-darken {
+    background: #4D4D4D;
+    color: white;
+
+}
+.ciudad-item{
+    text-align: left;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 5px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.ciudad-item:hover{
+    background: white;
+}
+.ficha-fondo{
+width: 100%;
+height: 100%;
+background: rgba(0, 0, 0, 0.7);
+position: absolute;
+z-index: 99999;
+}
+.ficha{
+    background: white;
+    border-radius: 10px;
+    max-width: 50vw;
+    height: 80vh;
+    text-align: center;
+    margin: 100px;
+    display: grid;
+    grid-template-rows: 80px auto;
+}
+.ficha-head{
+    background-color: #d25a2b;
+    color: white;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+}
+.ficha-body{
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+    color: #777;
+    padding: 10px;
+}
+.iconclose{
+    font-size: 30px;
+    margin-top: 15px;
+}
+.iconbutton{
+    font-size: 40px;
+    color: #777;
+    margin-right: 20px;
+}
+.itemficha{
+    text-align: left;
+    margin-bottom: 15px; 
+}
+.ficha-img{
+    display: grid;
+    grid-template-rows: 250px 250px;
+}
+.img-example{
+    background: #4D4D4D;
+    color: white;
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 10px;
+    padding-top: 40px;
+}
+.menutipo{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}

@@ -1,0 +1,17 @@
+.but-lat{
+    width: 250px;
+    text-align: center;
+    background: yellowgreen;
+    color: grey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 5px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Oswald', sans-serif;
+}
+.but-lat:hover{
+box-shadow: inset 0 0 10px #000000;
+color: black;   
+}
