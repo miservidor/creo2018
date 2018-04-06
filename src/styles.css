@@ -160,6 +160,10 @@ input{
 
 
 }
+.cin:hover {
+    background:#D19C15;
+    color: white;
+}
 .cin-darken {
     background:#D19C15;
     color: white;
@@ -196,6 +200,11 @@ input{
     color: aliceblue;
 
 }
+.cac:hover {
+    background: #A94923;
+    color: white;
+
+}
 .cac-darken {
     background: #A94923;
     color: white;
@@ -205,6 +214,11 @@ input{
     background: #5cb85c;
     color: aliceblue;
  
+}
+.csus:hover {
+    background: #449C44;
+    color: white;
+
 }
 .csus-darken {
     background: #449C44;
@@ -221,6 +235,10 @@ font-size: 30px;
 float: right;
 color: #4D4D4D;
 }
+.cdm:hover {
+    background: #30AED5;
+    color: white;
+}
 .cdm-darken {
     background: #30AED5;
     color: white;
@@ -229,6 +247,11 @@ color: #4D4D4D;
 .cdb {
     background: #666666;
     color: aliceblue;
+
+}
+.cdb:hover {
+    background: #4D4D4D;
+    color: white;
 
 }
 .cdb-darken {

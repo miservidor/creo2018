@@ -1,3 +1,85 @@
-<p>
-  edicion works!
-</p>
+<div *ngIf="popup" class="ficha-fondo">
+    <div class="ficha">
+      <div class="ficha-head">
+          <div class="row">
+              <div class="col-xs-1"></div>
+              <div class="col-xs-10"><h2>{{popupinfo.proyecto}}</h2></div>
+              <div class="col-xs-1"><span class="glyphicon glyphicon-remove-circle iconclose" (click)="CerrarPopup()"></span> </div>
+            </div>
+      </div>
+  <div class="ficha-body">
+      <div class="col-sm-6">
+        <div class="itemficha">
+          <strong>Nombre:</strong>  
+           {{popupinfo.proyecto}}
+        </div>
+        <div class="itemficha">
+            <strong>Tipo:</strong>   {{popupinfo.tipo}}
+        </div>
+        <div class="itemficha">
+         <strong>Cod:</strong>  {{popupinfo.id}}
+        </div>
+        <div class="itemficha">
+          <strong>Descripcion:</strong>   <br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+             
+          </div>
+          <div class="itemficha">
+              <span class="glyphicon glyphicon-map-marker iconbutton"></span>
+              <span class="glyphicon glyphicon-plus iconbutton"></span>
+              <span class="glyphicon glyphicon-envelope iconbutton"></span>
+              
+          </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="ficha-img">
+                      <div class="img-example"> IMAGEN 1</div>
+                      <div class="img-example">IMAGEN 2</div>
+    
+                    </div>
+                </div>
+              </div>
+  </div>
+  </div>
+<div class="filter-box">
+  <input type="text" class="in-filter" value=""> <div class="but-filter">Filtrar</div>
+</div>
+<div class="prog-body">
+    
+
+    <div *ngFor="let item of grupociudades" >
+        
+        <div id="{{i}}" class="prog-ficha" (click)="AbrirPopup(item)">
+          <div *ngIf="item.tipociudad==='CA'" class="prog-ficha-icon cac">
+            {{i}}<br>
+            <img src="./assets/iconos/c_activa.png" alt="" class="img-responsive">
+          </div>
+          <div *ngIf="item.tipociudad==='CI'" class="prog-ficha-icon cin">
+            {{i}}<br>
+            <img src="./assets/iconos/c_integrada.png" alt="" class="img-responsive">
+          </div>
+          <div *ngIf="item.tipociudad==='CS'" class="prog-ficha-icon csus">
+            {{i}}<br>
+            <img src="./assets/iconos/c_sustentable.png" alt="" class="img-responsive">
+          </div>
+          <div *ngIf="item.tipociudad==='CM'" class="prog-ficha-icon cdm">
+            {{i}}<br>
+            <img src="./assets/iconos/c_mar.png" alt="" class="img-responsive">
+          </div>
+          <div *ngIf="item.tipociudad==='CB'" class="prog-ficha-icon cdb">
+            {{i}}<br>
+            <img src="./assets/iconos/c_barrios.png" alt="" class="img-responsive">
+          </div>
+          <div class="rowcity-text"><strong>{{item.proyecto}}
+            </strong><br>
+            <span style="color:#999;">Tipo: {{item.tipo}}</span><br>
+            <span style="color:#999;">Cod: {{item.id}}</span>
+          </div>
+          <div class="rowcity-img" style="text-align:right;">
+            <img src="./assets/ejm_icon.jpg" alt="">
+          </div>
+        </div>
+      </div>
+  
+</div>
